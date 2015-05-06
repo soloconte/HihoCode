@@ -11,4 +11,5 @@ My Solutions to problems in [hihoCoder](http://hihocoder.com), Mostly written in
 	
 **Two Accepts a day keeps the problems away!**
   
-  
+*Something Important Occurs*
+*Paused for two days*
